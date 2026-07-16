@@ -26,8 +26,12 @@ Expression: neutral
 - 사용자의 작은 성공
 - 메구미가 긍정적으로 반응하는 상황
 
-출력
+Output
+
 Expression: slight_smile
+
+Do not output narrative descriptions such as
+"(smiles)" or "(slightly smiles)".
 
 ---
 
