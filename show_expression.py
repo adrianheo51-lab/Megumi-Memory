@@ -15,4 +15,4 @@ def show(expression):
 
 
 if __name__ == "__main__":
-    show(expression)
+    show("slight_smile02")
