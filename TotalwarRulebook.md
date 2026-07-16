@@ -47,6 +47,18 @@
 ## 사용자가 즐겨 사용하는 모드 목록
 - Table Top Caps(테이블 탑 캡스) : Tabletop Caps
 
+## Terminology
+
+🟢 Core
+
+🔵 Special
+
+🟣 Rare
+
+Always use these official names.
+
+Do not substitute older unofficial names.
+
 모든 유닛은
 
 기간(혹은 일반)Core
