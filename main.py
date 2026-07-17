@@ -24,6 +24,17 @@ def home():
     }
 
 
-@app.get("/character/status") 
+@app.get("/character/status")
 def get_status():
     return memory
+
+
+@app.post("/character/status")
+def update_status(data: CharacterStatus):
+    global memory
+    memory = data
+
+    return {
+        "message": "updated",
+        "data": memory
+    }
